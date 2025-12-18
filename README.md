@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshgo01yal
-- 👀 I’m interested in creating web apps
-- 🌱 I’m currently learning springboot
+- 👀 I’m interested in deploying web apps.
+- 🌱 I’m currently learning devops
 - 📫 How to reach me anshgo01yal@gmail.com
 
 <!---
